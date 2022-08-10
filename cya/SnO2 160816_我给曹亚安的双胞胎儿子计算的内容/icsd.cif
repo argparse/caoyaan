@@ -1,0 +1,89 @@
+data_84576-ICSD
+#?2009 by Fachinformationszentrum Karlsruhe, and the U.S. Secretary of 
+#Commerce on behalf of the United States.  All rights reserved.
+_database_code_ICSD                84576
+_audit_creation_date               1999/01/19
+_audit_update_record               2006/04/01
+_chemical_name_systematic          'Tin(IV) Oxide'
+_chemical_formula_structural       'Sn O2'
+_chemical_formula_sum              'O2 Sn1'
+_publ_section_title
+;
+Structural studies of rutile-type metal dioxides
+;
+loop_
+_citation_id
+_citation_journal_abbrev
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica B (39,1983-)' 1997 53 373 380 ASBSDK
+2 'Golden Book of Phase Transitions, Wroclaw' 2002 1 1 123 GBOPT5
+_publ_author_name
+;
+Bolzan, A.A.;Fong, C.;Kennedy, B.J.;Howard, C.J.
+;
+_cell_length_a                     4.73735(9)
+_cell_length_b                     4.73735(9)
+_cell_length_c                     3.18640(7)
+_cell_angle_alpha                  90.
+_cell_angle_beta                   90.
+_cell_angle_gamma                  90.
+_cell_volume                       71.51
+_cell_formula_units_Z              2
+_symmetry_space_group_name_H-M     'P 42/m n m'
+_symmetry_Int_Tables_number        136
+_refine_ls_R_factor_all            .013
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1	'-y+.5, x+.5, -z+.5'
+  2	'y+.5, -x+.5, -z+.5'
+  3	'y, x, -z'
+  4	'-y, -x, -z'
+  5	'y+.5, -x+.5, z+.5'
+  6	'-y+.5, x+.5, z+.5'
+  7	'-y, -x, z'
+  8	'y, x, z'
+  9	'x+.5, -y+.5, -z+.5'
+ 10	'-x+.5, y+.5, -z+.5'
+ 11	'x, y, -z'
+ 12	'-x, -y, -z'
+ 13	'-x+.5, y+.5, z+.5'
+ 14	'x+.5, -y+.5, z+.5'
+ 15	'-x, -y, z'
+ 16	'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2-	-2
+Sn4+	4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn4+ 2 a 0 0 0 1. 0 
+O1 O2- 4 f 0.30562(9) 0.30562(9) 0 1. 0 
+
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn4+ 0.0044(3) 0.0044(3) 0.0031(4) -.0004(2) 0 0
+O1 O2- 0.0066(2) 0.0066(2) 0.0055(4) -.0016(2) 0 0
+#End of data_84576-ICSD
+
+

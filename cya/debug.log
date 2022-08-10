@@ -1,0 +1,17 @@
+[0426/172749:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/173443:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0426/175749:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/181512:ERROR:ssl_client_socket_impl.cc(1141)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0426/181905:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0426/182749:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/185749:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/192749:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/195749:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/202750:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/205750:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/212750:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/215750:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0426/221251:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0427/075718:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/082718:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0427/083748:ERROR:tcp_socket_win.cc(647)] closesocket: Either the application has not called WSAStartup, or WSAStartup failed. (0x276D)
